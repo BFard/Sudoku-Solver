@@ -1,0 +1,37 @@
+input {
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	font-size: 30px;
+	border: 3px #ccc solid;
+	background: transparent;
+	font-family: verdana;
+	color: #666;
+}
+.dark {
+    background-color: #ccc;
+}
+#board {
+    border: 10px solid #666;
+    margin: auto;
+}
+#border {
+    height: 10px;
+    background-color: #666;
+}
+.button {
+    height: 50;
+    border: 3px solid #ccc;
+    text-align: center;
+    font-family: verdana;
+    color: #204056;
+    font-size: 30px;
+    cursor: pointer;
+}
+a {
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    color: inherit;
+}
